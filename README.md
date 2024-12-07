@@ -1,7 +1,5 @@
 # RA1000-Proyecto Final
 
-Proyecto en Python: Creación de Librerías en Google Colab
-
 Durante este semestre, desarrollé un proyecto dividido en tres etapas principales, trabajando con Google Colab y utilizando Python como lenguaje principal. Este proyecto no solo me permitió afianzar conceptos básicos y avanzados de programación, sino que también reforzó mis habilidades en el uso de herramientas matemáticas y de programación estructurada. A continuación, detallo cada una de las tres partes que conformaron el proyecto.
 
 Primera Librería: Creación de Objetos, Variables y Operaciones en Python
